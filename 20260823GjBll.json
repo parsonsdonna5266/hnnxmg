@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "量大腿能知道自己有没有糖尿病吗",
+    "author": "偪謒氌",
+    "time": "2026年08月23日02时24分31秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "Agentic SRE：当 AI 不仅提出修复方案，还直接实施时会发生什么",
+  "description": "官方通报佛山一中学教师招聘违规事件",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.yvfmry.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "DeepSeek Harness 如何基于 Cordis 实现插件化 Agent 模式",
+    "description": "内容页的详细描述，可包含www.blog.yvfmry.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "蓔趘嗾"
+    },
+    "datePublished": "2026年08月23日02时24分31秒",
+    "dateModified": "2026年08月23日02时24分31秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "辣椒炒肉名场面来了",
+      "url": "http://www.blog.yvfmry.cn/Article/details/672852.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "像一阵细雨洒落我心底",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/002760.sHtML"
+    },
+{
+      "platform": "沈文裕默默翻评论满足粉丝点歌",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/870547.sHtML"
+    },
+{
+      "platform": "敕令搜典(一款Everything插件）瞬间菜鸟成为元婴级大能",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/991035.sHtML"
+    },
+{
+      "platform": "使用 Linux 一年后的真实感受",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/904860.sHtML"
+    },
+{
+      "platform": "来葛仙村过几天神仙日子！！！【江西旅游新地标】葛仙村度假区三天两晚全功攻略",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/047069.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 出来了，干硬件的我琢磨了一下它到底能干啥",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/775767.sHtML"
+    },
+{
+      "platform": "0819复盘：七夕至少有股票赔着",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/988907.sHtML"
+    },
+{
+      "platform": "第五人格加页手记微综艺",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/910988.sHtML"
+    },
+{
+      "platform": "全球市场大跳水原因",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/505620.sHtML"
+    },
+    {
+      "platform": "刘一朵真成全国景区了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/609301.sHtML"
+    },
+{
+      "platform": "给 DeepSeek Harness 装一个任务面板：DSH Task Board 快速上手",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/252201.sHtML"
+    },
+{
+      "platform": "杭州一地铁站广告被吐槽“像朝乘客竖中指”，工作人员回应：广告在上刊前都有报备，会审核排查相关情况",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/189715.sHtML"
+    },
+{
+      "platform": "实用汉字转拼音4.8 UI优化版",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/822808.sHtML"
+    },
+{
+      "platform": "【计算机网络 | 数据链路层3：MAC 地址是什么？它和 IP 地址有什么区别？】",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/569240.sHtML"
+    },
+{
+      "platform": "中国实现火箭陆地回收 外媒反应来了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/967217.sHtML"
+    },
+{
+      "platform": "ECharts 有对手了？TanStack Charts 重新定义图表库",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/171478.sHtML"
+    },
+{
+      "platform": "全球市场大跳水 原因找到了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/237952.sHtML"
+    },
+{
+      "platform": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/377820.sHtML"
+    },
+{
+      "platform": "【HTTPS】一个“S“背后的战争：五轮迭代还原 HTTPS 设计全貌",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/312529.sHtML"
+    },
+    {
+      "platform": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/615394.sHtML"
+    },
+{
+      "platform": "第七届中非媒体合作论坛明日开幕",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/656156.sHtML"
+    },
+{
+      "platform": "《功夫女足》《新喜剧之王》在国内的票房滑铁卢是不是会让周星驰冷静下来好好想想怎么拍好电影？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/011128.sHtML"
+    },
+{
+      "platform": "饰品分享 | 最近的种草&常逛平价店铺",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/744415.sHtML"
+    },
+{
+      "platform": "Node.js 26.7.0 更新！测试、性能分析、FFI 全面补强",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/146055.sHtML"
+    },
+{
+      "platform": "万岁山景区旁现“李鬼停车场”",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/639180.sHtML"
+    },
+{
+      "platform": "开启Benchmark的Harness时代：十五家学术机构联合发布HarnessEval",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/477202.sHtML"
+    },
+{
+      "platform": "人形机器人运动会，比什么",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/145128.sHtML"
+    },
+{
+      "platform": "博格巴巅峰身价1亿如今剩250万",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/195020.sHtML"
+    },
+{
+      "platform": "分享我舒缓压力的方法：写感恩日记/成功日记！希望你也可以因为一点小事就幸福呀！",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/043478.sHtML"
+    },
+    {
+      "platform": "自制AI电影出马仙镇东北",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/481931.sHtML"
+    },
+{
+      "platform": "造谣青岛大学旭日旗者被拘",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/872270.sHtML"
+    },
+{
+      "platform": "WTM何时出现？8个月内的必然",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/270137.sHtML"
+    },
+{
+      "platform": "日本瞄准无人作战会有哪些变化",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/310199.sHtML"
+    },
+{
+      "platform": "哈佛太平间盗卖遗体案和解",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/735726.sHtML"
+    },
+{
+      "platform": "湾区超美风景线，一起感受至美南沙",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/958868.sHtML"
+    },
+{
+      "platform": "翻翻乐"翻车"实录：一个看似简单的卡片游戏，我踩了五个坑",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/118941.sHtML"
+    },
+{
+      "platform": "老叟戏顽童之模仿棋",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/335272.sHtML"
+    },
+{
+      "platform": "干娘带你看七夕线下脱单盛况",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/940052.sHtML"
+    },
+{
+      "platform": "河南暴雨农户蹚没腰积水抢收花生",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/765299.sHtML"
+    },
+    {
+      "platform": "解码提速15.1倍、多任务性能不降：复旦&引望WAM-Diff2打通自动驾驶VLA自回归—扩散转换",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/268725.sHtML"
+    },
+{
+      "platform": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/822107.sHtML"
+    },
+{
+      "platform": "1871年、美国飞机设计师奥维尔·莱特诞生",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/673876.sHtML"
+    },
+{
+      "platform": "【HarmonyOS 7 悬浮页签深度实战】02 从普通底栏到第一个悬浮页签",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/844662.sHtML"
+    },
+{
+      "platform": "敢反资本敢拍强权！《龙餐馆》立意封神，却被有几处剧本逻辑漏洞。",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/364834.sHtML"
+    },
+{
+      "platform": "5万以下的燃油车 正在被遗忘",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/069931.sHtML"
+    },
+{
+      "platform": "如果网络不分层，互联网会崩溃成什么样？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/137818.sHtML"
+    },
+{
+      "platform": "药代违规进入诊疗区域，四家药企产品被湘雅二医院暂停使用3个月",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/943882.sHtML"
+    },
+{
+      "platform": "突发！OpenAI停止强化学习训练两周",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/016988.sHtML"
+    },
+{
+      "platform": "华系适合年轻人的车来了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/240275.sHtML"
+    },
+    {
+      "platform": "2027 款广汽丰田凯美瑞上市：智能座舱大升级、小米生态接口，权益价 13.18 万起",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/418119.sHtML"
+    },
+{
+      "platform": "冷战核废墟变八吉瓦AI超级工厂！黄仁勋押十五亿，OpenAI独霸二十年",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/894436.sHtML"
+    },
+{
+      "platform": "北京时间今天14时35分，SpaceX火箭残骸将撞击月球，预计将形成有史以来最大规模的人造陨石坑",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/570078.sHtML"
+    },
+{
+      "platform": "越南印度纷纷发钱催生",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/112790.sHtML"
+    },
+{
+      "platform": "【全栈实践】第一个 AI Agent 项目：从零搭建 AI 音频创作助手（高级篇）",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/910348.sHtML"
+    },
+{
+      "platform": "别再只会“加索引”：从磁盘页到 B+Tree，彻底理解 MySQL 索引的设计与运行",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/003019.sHtML"
+    },
+{
+      "platform": "查壳工具 Exeinfo PE 0.0.9.9官方版&集成插件绿色单文件汉化版",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/052008.sHtML"
+    },
+{
+      "platform": "王者牛魔玩法升级爆料",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/895158.sHtML"
+    },
+{
+      "platform": "落实省会引领：南昌，加速跑",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/413234.sHtML"
+    },
+{
+      "platform": "日拟研发潜射高超音速导弹",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/675661.sHtML"
+    },
+    {
+      "platform": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/340661.sHtML"
+    },
+{
+      "platform": "分布式GPU智能算法深度研究2026年版（下）",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/330766.sHtML"
+    },
+{
+      "platform": "伊朗举行哈梅内伊下葬四十日纪念仪式 穆杰塔巴未现身",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/340999.sHtML"
+    },
+{
+      "platform": "李施嬅说朱一龙又一个影帝来了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/063623.sHtML"
+    },
+{
+      "platform": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/867769.sHtML"
+    },
+{
+      "platform": "领航出海·连接全球：2026 ChinaJoy BTOB 馆盛况空前",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/870716.sHtML"
+    },
+{
+      "platform": "朱雀三号回收成功，如何看待蓝箭和 SpaceX 陆基回收路线的竞争？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/984021.sHtML"
+    },
+{
+      "platform": "卡位BBA、突围新势力，魏牌V8X以“极致”定义大五座旗舰SUV价值标杆",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/593441.sHtML"
+    },
+{
+      "platform": "这个把无数人体做成塑料的疯狂科学家，最终自己也将被切成薄片展出",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/870201.sHtML"
+    },
+{
+      "platform": "奥特曼瘫坐叫停“GPT-6”训练！太强触发最高安全警报",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/198940.sHtML"
+    },
+    {
+      "platform": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/256366.sHtML"
+    },
+{
+      "platform": "交通运输部规划约6万公里“三环四横五纵”精品自驾旅游公路；商务部等推动新能源汽车、绿色智能家电下乡",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/532064.sHtML"
+    },
+{
+      "platform": "美军演习主力被乌军全歼",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/720018.sHtML"
+    },
+{
+      "platform": "高德地图车机版 V9.5.0正式版(含最新离线数据26年8月12日)",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/613672.sHtML"
+    },
+{
+      "platform": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/010684.sHtML"
+    },
+{
+      "platform": "烽火职业联赛夏季赛",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/849142.sHtML"
+    },
+{
+      "platform": "马上评丨张兰终审败诉，重申“公众人物容忍义务”",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/650137.sHtML"
+    },
+{
+      "platform": "王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/997923.sHtML"
+    },
+{
+      "platform": "这个39岁的日本阿姨，说话一套一套的！",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/229729.sHtML"
+    },
+{
+      "platform": "FREELANDER神行者8开启预售，大六座版预售价34.99万元起、大五座版预",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/857766.sHtML"
+    },
+    {
+      "platform": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/584010.sHtML"
+    },
+{
+      "platform": "国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，2030年国内油气供应量目标4.4亿吨油当量",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/482122.sHtML"
+    },
+{
+      "platform": "【微特稿】高温炙烤韩国 釜山破122年来最高气温纪录",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/034750.sHtML"
+    },
+{
+      "platform": "博主：A股市场不应该跟着外围市场走",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/395566.sHtML"
+    },
+{
+      "platform": "视频丨我国首次！重复使用火箭陆地回收成功",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/703552.sHtML"
+    },
+{
+      "platform": "仅退款的风吹到了医疗界",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/253602.sHtML"
+    },
+{
+      "platform": "陕西千阳回应“聘任假总编张龙并为其背书”：我们也被骗了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/999402.sHtML"
+    },
+{
+      "platform": "丁程鑫曾长期营养不良",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/834784.sHtML"
+    },
+{
+      "platform": "报，国外晚上又是大涨。",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/943539.sHtML"
+    },
+{
+      "platform": "申花0-3国安后，一名身穿中国国家队武磊球衣的孩子与其父亲被极端申花球迷围住指责，你如何看待这件事情？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/316386.sHtML"
+    },
+    {
+      "platform": "企退月均3640，事退8136：差距不该让老人用余生来等",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/805868.sHtML"
+    },
+{
+      "platform": "唐代石狮被盗警方悬赏100万",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/184048.sHtML"
+    },
+{
+      "platform": "为什么有钱人都喜欢往漂亮国跑？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/741270.sHtML"
+    },
+{
+      "platform": "某互联网大厂面试真题：公网出口中 DDOS 防御网络架构设计和协议选择",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/887610.sHtML"
+    },
+{
+      "platform": "何炅因年龄大被密室拒绝",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/781924.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 发布后，我没急着跑 Demo，先把 '.agents/' 翻了一遍",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/326139.sHtML"
+    },
+{
+      "platform": "中国汽车欧洲份额破10%",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/932323.sHtML"
+    },
+{
+      "platform": "哔哩哔哩国际版 Android 应用程序全新上线",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/219524.sHtML"
+    },
+{
+      "platform": "孩童坐车道玩耍遭转弯车撞击",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/730079.sHtML"
+    },
+{
+      "platform": "高不高产不知道 反正十八张图不够发",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/854787.sHtML"
+    },
+    {
+      "platform": "高级前端开发职业规划（2026—2035）",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/594657.sHtML"
+    },
+{
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/092479.sHtML"
+    },
+{
+      "platform": "跨平台开发地图 | 2026年8月",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/680092.sHtML"
+    },
+{
+      "platform": "42岁男子玩漂流致骨折瘫痪",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/604976.sHtML"
+    },
+{
+      "platform": "前7月内地访日游客同比降56.3%",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/634807.sHtML"
+    },
+{
+      "platform": "盈大地產：2026年上半年收入5.93亿港元，股东应占亏损1.89亿港元",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/281521.sHtML"
+    },
+{
+      "platform": "流星雨撞上日全食！就在明晚，百年难遇的天象大戏来了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/432797.sHtML"
+    },
+{
+      "platform": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布 对于L3级自动驾驶系统还应具备驾驶人接管能力监测功能",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/139817.sHtML"
+    },
+{
+      "platform": "我老公精力旺盛得吓人，一天只睡三个小时，体能恢复的也特别快",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/619713.sHtML"
+    },
+{
+      "platform": "115 网盘上线 2026 年七夕限定活动：2999 元长期 VIP 套餐回归，但不再附赠存储空间",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/811628.sHtML"
+    },
+    {
+      "platform": "2000年、中国三江源自然保护区成立",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/535140.sHtML"
+    },
+{
+      "platform": "紫牛头条｜江苏3岁罕见病女童完成冷冻卵巢手术，妈妈：希望给女儿未来选择的权利",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/765582.sHtML"
+    },
+{
+      "platform": "刚访华不久，美国会机构就嚷嚷：中国占尽优势，咱也得搞",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/123353.sHtML"
+    },
+{
+      "platform": "吓到腿软，电梯突然失控从31楼下坠到负2楼！一家三人分别遭遇电梯下坠事件，海伦国际小区电梯故障频发",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/810360.sHtML"
+    },
+{
+      "platform": "宇宙中的“超级大水库”，地球的蓄水量，只有它的140万亿分之1",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/771384.sHtML"
+    },
+{
+      "platform": "日本防卫省计划大规模扩编，新设「防卫基盘局」等 3 个部门，日媒评价「非常罕见」，此举有哪些意图？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/160886.sHtML"
+    },
+{
+      "platform": "“价格屠夫”梁文锋“收刀”",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/830429.sHtML"
+    },
+{
+      "platform": "我真不是为了那饭菜，才替他们倒酒满上",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/310067.sHtML"
+    },
+{
+      "platform": "21家百亿私募，现身31股前十大",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/648758.sHtML"
+    },
+{
+      "platform": "固态电池真的那么完美吗？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/852023.sHtML"
+    },
+    {
+      "platform": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/092078.sHtML"
+    },
+{
+      "platform": "奥运冠军李雪芮点评安洗莹：没什么进攻，但核心很强、防守好",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/485810.sHtML"
+    },
+{
+      "platform": "男子拒还借款杀害朋友2年后又砍死姑父灭口 被判死刑",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/147156.sHtML"
+    },
+{
+      "platform": "“天王的发布会”！奕境X9预售诚意拉满29.98万元起天王“不可思议”",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/521518.sHtML"
+    },
+{
+      "platform": "生而全球，淬炼而归：风云T7正式开启预售，10.99万元起",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/070474.sHtML"
+    },
+{
+      "platform": "上海2026社保基数下限调整为7546元/月，平均工资首次突破12500元大关，哪些信息值得关注？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/145846.sHtML"
+    },
+{
+      "platform": "财务管理系统 2026 专业版",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/255399.sHtML"
+    },
+{
+      "platform": "这升学宴的当事人，会不会一辈子无法心安，升学宴变升天",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/956799.sHtML"
+    },
+{
+      "platform": "唐山多家企业被卡用地审批？记者调查",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/463810.sHtML"
+    },
+{
+      "platform": "市场监管总局严打电子计价秤芯片植入、远程操控等作弊行为，全流程管控生产流通",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/426112.sHtML"
+    },
+    {
+      "platform": "PopTrans-v1.0.0开源离线截屏翻译软件",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/669065.sHtML"
+    },
+{
+      "platform": "韩国史上最恐怖连环杀人案《追击者》这样的地方恶魔只会越来越多",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/794078.sHtML"
+    },
+{
+      "platform": "预售价25.98万元，黄金大五座科技旗舰小鹏G9L重磅亮相",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/920159.sHtML"
+    },
+{
+      "platform": "28家具身独角兽估值超3500亿元，谁是下一个宇树？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/651016.sHtML"
+    },
+{
+      "platform": "惠英红为拍戏拼到买不了保险",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/868269.sHtML"
+    },
+{
+      "platform": "A股震荡行情投资者该如何操作",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/984077.sHtML"
+    },
+{
+      "platform": "女子买猫窝到货后爬出一只猫",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/269735.sHtML"
+    },
+{
+      "platform": "迪丽热巴陈飞宇恋情传闻时间线",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/080386.sHtML"
+    },
+{
+      "platform": "婚外胚胎案男方发声：一直愿意配合销毁胚胎；妻子回应：声明避重就轻，至今未见任何实质性举措",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/062621.sHtML"
+    },
+{
+      "platform": "星铁知更鸟晴歌综合测评",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/384636.sHtML"
+    },
+    {
+      "platform": "1岁女童玩蜗牛后患严重脑膜炎",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/342036.sHtML"
+    },
+{
+      "platform": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/431940.sHtML"
+    },
+{
+      "platform": "转会专家：利物浦中场琼斯即将加盟国际米兰",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/248918.sHtML"
+    },
+{
+      "platform": "[3.1]小工具-文件名字追加日期",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/848937.sHtML"
+    },
+{
+      "platform": "买猫窝到货爬出小猫",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/359608.sHtML"
+    },
+{
+      "platform": "明星七夕节集体秀恩爱",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/056000.sHtML"
+    },
+{
+      "platform": "金山云 2026 财年半年报归母亏损 4.37 亿元，同比下降 43.4%",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/684026.sHtML"
+    },
+{
+      "platform": "名嘴：孙颖莎王曼昱可能在这个时间点退役！王楚钦或效仿马龙战至37岁",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/740029.sHtML"
+    },
+{
+      "platform": "【短视频】七夕快乐呀呀",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/353304.sHtML"
+    },
+{
+      "platform": "张恒远因黑色素瘤病逝",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/516700.sHtML"
+    },
+    {
+      "platform": "21世纪亚洲运动员TOP10：孙兴慜第一，姚明第六",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/204842.sHtML"
+    },
+{
+      "platform": "当地回应升学宴事故致5人死亡",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/422191.sHtML"
+    },
+{
+      "platform": "河南洪水退鱼群聚集",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/242489.sHtML"
+    },
+{
+      "platform": "图片抠图去背景工具v1.0",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/632643.sHtML"
+    },
+{
+      "platform": "河南烩面走到纽约了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/498937.sHtML"
+    },
+{
+      "platform": "尼罗河都流经沙漠了，为什么没有水土流失？黄河却这么严重？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/046517.sHtML"
+    },
+{
+      "platform": "现在KTV里还有这种表演？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/928295.sHtML"
+    },
+{
+      "platform": "80后集体“盼退休”：不是懒了，是心里那根弦快断了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/229973.sHtML"
+    },
+{
+      "platform": "库珀无限接近与辽篮签约",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/647030.sHtML"
+    },
+{
+      "platform": "中国足协回应工作人员被曝曾受韩国足协“不当招待”：已展开调查",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/080128.sHtML"
+    },
+    {
+      "platform": "别再去西餐厅当冤大头！居家实现高端肉食自由，所有人都可以把西餐厅顶配餐食搬回家",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/996644.sHtML"
+    },
+{
+      "platform": "辣眼睛！三伏天公园又现“赤裸晒背”，有人说这是“个人自由”，有人觉得“不雅观”，医生提醒：这类人群坚决不能晒",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/486444.sHtML"
+    },
+{
+      "platform": "封总，太太想跟你离婚很久了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/522549.sHtML"
+    },
+{
+      "platform": "人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/694507.sHtML"
+    },
+{
+      "platform": "家中装修厕所因太豪华遭强拆",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/700698.sHtML"
+    },
+{
+      "platform": "泽连斯基遭遇大麻烦",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/513846.sHtML"
+    },
+{
+      "platform": "媒体：拿了地的高管和分管城建的原副区长，这饭吃的是什么？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/365428.sHtML"
+    },
+{
+      "platform": "涉王星案17名嫌犯被公诉：诱骗多人出境 强迫女性卖淫",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/045325.sHtML"
+    },
+{
+      "platform": "今年的夏天像是一场梦，不知不觉就到秋天了。",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/944794.sHtML"
+    },
+{
+      "platform": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/490315.sHtML"
+    },
+    {
+      "platform": "王者里可以打斗地主了",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/901207.sHtML"
+    },
+{
+      "platform": "老婆让我给她找健身搭子，手把手教学",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/572118.sHtML"
+    },
+{
+      "platform": "为博流量恶意拨打110被行拘",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/292112.sHtML"
+    },
+{
+      "platform": "永鼎股份 2026 年半年度归母净利润 5.03 亿元，同比增长 58.06%",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/758047.sHtML"
+    },
+{
+      "platform": "降至2.7%！银行房贷利率再现低位",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/377988.sHtML"
+    },
+{
+      "platform": "黄山一猴子误触高压电身亡",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/543051.sHtML"
+    },
+{
+      "platform": "拍张写真祝老己七夕快乐",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/278956.sHtML"
+    },
+{
+      "platform": "孟子义没有给cp让路的义务",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/361441.sHtML"
+    },
+{
+      "platform": "跟着合唱派对七夕浪漫开唱",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/280022.sHtML"
+    },
+{
+      "platform": "海军新飞行学员坐军舰去上学",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/531798.sHtML"
+    },
+    {
+      "platform": "江浙沪作为典型的南方地区，为什么嗜好面食，满大街都是面馆",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/931980.sHtML"
+    },
+{
+      "platform": "苏神百万年薪简历翻车：一个包装争议，给后端同学的 5 个工程视角警示",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/103020.sHtML"
+    },
+{
+      "platform": "1935年、美国宇航员斯托里·马斯格雷夫出生",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/362202.sHtML"
+    },
+{
+      "platform": "千万别用手拍，最近很多人家里有！深圳曾有一男子被迫摘除眼球，“第二天就失明”",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/271426.sHtML"
+    },
+{
+      "platform": "七夕怪谈：对象不够，AI来凑",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/254478.sHtML"
+    },
+{
+      "platform": "江苏“隐形高温”持续，体感闷热，警惕分散性雷阵雨突袭",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/139353.sHtML"
+    },
+{
+      "platform": "对比与生成：抖音SOTA多模态表征模型DME",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/346654.sHtML"
+    },
+{
+      "platform": "处长单位门口遭枪击高位截瘫7年后去世 案件25年未破",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/699983.sHtML"
+    },
+{
+      "platform": "不理解林肯号上的士兵为啥后勤稍微差一点就无法忍受了，不就是水果、日用品短缺吗？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/616551.sHtML"
+    },
+{
+      "platform": "PVZ恐怖版新潜伏者僵尸",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/725500.sHtML"
+    },
+    {
+      "platform": "OpenAI公开四加十条保命指南，专防AI自动化攻击",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/606058.sHtML"
+    },
+{
+      "platform": "中国气象局启动暴雨四级应急响应",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/605916.sHtML"
+    },
+{
+      "platform": "SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/559186.sHtML"
+    },
+{
+      "platform": "产出多部爆款电视剧的张若昀，为什么到了电影圈就不灵了？",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/922656.sHtML"
+    },
+{
+      "platform": "隔热层“飞”了 责任谁担",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/200267.sHtML"
+    },
+{
+      "platform": "山姆苹果干一包就是半个苹果",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/862761.sHtML"
+    },
+{
+      "platform": "仅有百股跌停，多达300多只上涨",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/283974.sHtML"
+    },
+{
+      "platform": "雷军打新宇树科技赚152亿",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/442018.sHtML"
+    },
+{
+      "platform": "武汉世界第一争夺战：赵心童手握2350积分优势，丁俊晖或送助攻！",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/174607.sHtML"
+    },
+{
+      "platform": "《重器》打酱油的她不简单，体操世家出身多次上春晚，撞脸王玉雯",
+      "share_url": "http://www.blog.yvfmry.cn/Article/details/940263.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月23日02时24分31秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
