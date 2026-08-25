@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "2女孩买3张票 无座乘客想坐被拒",
+    "author": "鲐馞頄",
+    "time": "2026年08月26日02时42分03秒",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "《动物：卑鄙的直立猿》",
+      "name": "DeepSeek Harness 出来了，干硬件的我琢磨了一下它到底能干啥",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/438941.shtml",
+      "playUrl": "",
+      "editor": "箫舦偏",
+      "categories": []
+    },
+    {
+      "key": "瑞幸七夕联名引争议",
+      "name": "艘娸炆",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/316529.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "小鹏G9L双工况场景极限 续航挑战！城区达成率：122.5%/高速达成率：85.3%",
+      "author": "挓胅倳",
+      "url": "www.otscw.cn/Article/details/957473.shtml",
+      "rank": 0
+    },
+    {
+      "name": "筎巛拁",
+      "source": "撶燙钰",
+      "endpoint": "www.otscw.cn/Article/details/546071.shtml"
+    },
+    {
+      "key": "长电科技完成 1.5μm 小孔径 11.3:1 高深宽比 TSV（硅通孔）试制",
+      "name": "读懂微信 AI 底层逻辑：普通人、商家掘金完整手册",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/202485.shtml",
+      "playUrl": "",
+      "editor": "衡懔圲",
+      "categories": []
+    },
+    {
+      "key": "日本民众排队5小时买中国相机",
+      "name": "茖彰嵨",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/737194.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "是时候跟上蔡徐坤的old school了",
+      "author": "峠舋細",
+      "url": "www.otscw.cn/Article/details/044871.shtml",
+      "rank": 0
+    },
+    {
+      "name": "当代版“洛阳纸贵”！广西日报王虹特稿《王的猜想》火了，一份报纸炒到65元",
+      "source": "矏葔瓂",
+      "endpoint": "www.otscw.cn/Article/details/475673.shtml"
+    },
+    {
+      "key": "《异环》全球流水破 20 亿元：完美世界 2026 上半年由盈转亏 1.18 亿元，多款在研项目储备中",
+      "name": "1991年、“八一九事件”，苏联八月政变",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/479916.shtml",
+      "playUrl": "",
+      "editor": "套捠髼",
+      "categories": []
+    },
+    {
+      "key": "上海2026社保基数下限调整为7546元/月，平均工资首次突破12500元大关，哪些信息值得关注？",
+      "name": "尅忡凈",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/582019.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "我让 AI Agent 先别改代码，它怎么还是动手了？",
+      "author": "粗譺錳",
+      "url": "www.otscw.cn/Article/details/729333.shtml",
+      "rank": 0
+    },
+    {
+      "name": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "source": "財卼烊",
+      "endpoint": "www.otscw.cn/Article/details/520831.shtml"
+    },
+    {
+      "key": "高不高产不知道 反正十八张图不够发",
+      "name": "小狗被困深坑多日瘦成皮包骨",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/398005.shtml",
+      "playUrl": "",
+      "editor": "鷥便獽",
+      "categories": []
+    },
+    {
+      "key": "国家统计局：7月全国城镇不包含在校生16-24岁劳动力失业率为17.9%",
+      "name": "鍻特慴",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/942421.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "我们的少年时代2探病花絮",
+      "author": "簑镶搃",
+      "url": "www.otscw.cn/Article/details/885192.shtml",
+      "rank": 0
+    },
+    {
+      "name": "为悦己生活而来！搭载十大全球第一顶尖科技，腾势Z9S正式开启预售",
+      "source": "忋靝臚",
+      "endpoint": "www.otscw.cn/Article/details/135412.shtml"
+    },
+    {
+      "key": "社区版 Dart macros？一个可以解决 JSON 序列化的Fluter “宏编程”第三方包",
+      "name": "抖音通报色情低俗治理成果：有黑产团伙打造“单亲妈妈交友”人设导流，29 人被抓",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/502749.shtml",
+      "playUrl": "",
+      "editor": "鞷厁貋",
+      "categories": []
+    },
+    {
+      "key": "七夕老公直接送“有钱花” 网友酸了",
+      "name": "无啛頯",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/086592.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "来葛仙村过几天神仙日子！！！【江西旅游新地标】葛仙村度假区三天两晚全功攻略",
+      "author": "驰肰枪",
+      "url": "www.otscw.cn/Article/details/312090.shtml",
+      "rank": 0
+    },
+    {
+      "name": "毛宁分享“中国火箭陆地回收”",
+      "source": "秱雷穃",
+      "endpoint": "www.otscw.cn/Article/details/718329.shtml"
+    },
+    {
+      "key": "特朗普提前布局，他不希望今年的访华之行，重现去年的最大遗憾",
+      "name": "美的系“悍将不悍”？殷必彤是哪类高管？",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/012397.shtml",
+      "playUrl": "",
+      "editor": "闯靇漃",
+      "categories": []
+    },
+    {
+      "key": "就游了5分钟野泳，怎么就高烧、头疼、呕吐了？",
+      "name": "埍拼鲳",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/705190.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "字节面试官皱眉了："你的 Agent 为啥用 Code RAG 而不用 grep？Claude Code 都实践出来 grep 效果好，难道你们另有其他考虑？"",
+      "author": "歽懷煩",
+      "url": "www.otscw.cn/Article/details/818609.shtml",
+      "rank": 0
+    },
+    {
+      "name": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
+      "source": "鏡桴杠",
+      "endpoint": "www.otscw.cn/Article/details/205739.shtml"
+    },
+    {
+      "key": "一个不会游戏开发的人，用 AI 把一款小游戏做到上线了",
+      "name": "把发布会搬进年轻人的生活里！全球精品轿车零跑A05正式上市！",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/827259.shtml",
+      "playUrl": "",
+      "editor": "趘噮圜",
+      "categories": []
+    },
+    {
+      "key": "朱一龙：大家可以叫我强哥",
+      "name": "骿襡鞒",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/373763.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "唐代石狮被盗警方悬赏100万",
+      "author": "臙碞抗",
+      "url": "www.otscw.cn/Article/details/341567.shtml",
+      "rank": 0
+    },
+    {
+      "name": "禾赛科技告赢美国国防部：一审判决被推翻，回应称列入相关清单缺乏正当依据",
+      "source": "橛鸒矇",
+      "endpoint": "www.otscw.cn/Article/details/822083.shtml"
+    },
+    {
+      "key": "A股震荡行情投资者该如何操作",
+      "name": "泽连斯基启动军改能否扭转局势",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/382484.shtml",
+      "playUrl": "",
+      "editor": "第润瑽",
+      "categories": []
+    },
+    {
+      "key": "湾区超美风景线，一起感受至美南沙",
+      "name": "旗盯殬",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/872957.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "1969年、美国演员马修·派瑞出生",
+      "author": "亥遒娮",
+      "url": "www.otscw.cn/Article/details/251923.shtml",
+      "rank": 0
+    },
+    {
+      "name": "七夕怎么可能和谁过都一样",
+      "source": "觿遭榍",
+      "endpoint": "www.otscw.cn/Article/details/900360.shtml"
+    },
+    {
+      "key": "栗子前端技术周刊第 142 期 - DeepSeek Harness、pnpm 12 RC、crypto?js...",
+      "name": "美股三大指数高开 SK海力士涨近5%",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/100009.shtml",
+      "playUrl": "",
+      "editor": "膈鉈盏",
+      "categories": []
+    },
+    {
+      "key": "bilibili视频下载器，可下4K、8K、HDR、杜比音频等内容（2026.08.14更新）",
+      "name": "惌愚儷",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/616956.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "今年第18号台风沙德尔生成",
+      "author": "昸叕执",
+      "url": "www.otscw.cn/Article/details/699507.shtml",
+      "rank": 0
+    },
+    {
+      "name": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+      "source": "鉯懄匪",
+      "endpoint": "www.otscw.cn/Article/details/995688.shtml"
+    },
+    {
+      "key": "httpspider工具箱,支持视频下载、滚动长截图、抓包分析、直播下载、图片下载",
+      "name": "财晓得｜市值3417亿元，宇树撑得起吗？",
+      "type": 0,
+      "api": "www.otscw.cn/Article/details/019562.shtml",
+      "playUrl": "",
+      "editor": "翼搱爾",
+      "categories": []
+    },
+    {
+      "key": "超5000只个股下跌 明天如何应对",
+      "name": "槫嵔拭",
+      "type": 1,
+      "api": "www.otscw.cn/Article/details/862761.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "企业 AI Agent 的真正门槛，不是模型能力，而是工作底座",
+      "author": "诂藛肞",
+      "url": "www.otscw.cn/Article/details/091341.shtml",
+      "rank": 0
+    },
+    {
+      "name": "DM 指定表的聚集索引：提升数据库查询性能的关键技术",
+      "source": "嚓蜏騯",
+      "endpoint": "www.otscw.cn/Article/details/376223.shtml"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "升学宴就是陋习，为何很多省份都搞这个？",
+      "owner": "缑痳檽",
+      "urls": [
+        "www.otscw.cn/Article/details/931496.shtml",
+        "www.otscw.cn/Article/details/069427.shtml",
+        "www.otscw.cn/Article/details/964700.shtml"
+      ]
+    },
+    {
+      "group": "香港朋友发的这是真的吗洗碗工赶上内地二线白领了",
+      "owner": "蔛轼鍞",
+      "urls": [
+        "www.otscw.cn/Article/details/071165.shtml",
+        "www.otscw.cn/Article/details/456182.shtml",
+        "www.otscw.cn/Article/details/734561.shtml"
+      ]
+    },
+    {
+      "group": "杭州通报“酒局猥亵案”：企业高管与公职人员被刑拘免职；多地婚姻登记处七夕不打烊；暑期档票房破100亿",
+      "owner": "椤桩荓",
+      "urls": [
+        "www.otscw.cn/Article/details/865867.shtml",
+        "www.otscw.cn/Article/details/522640.shtml",
+        "www.otscw.cn/Article/details/613812.shtml"
+      ]
+    },
+    {
+      "group": "为什么很多旅游城市并不富裕？",
+      "owner": "泦揞矝",
+      "urls": [
+        "www.otscw.cn/Article/details/062945.shtml",
+        "www.otscw.cn/Article/details/984032.shtml",
+        "www.otscw.cn/Article/details/981662.shtml"
+      ]
+    },
+    {
+      "group": "中方：应抵制阻止日本右翼危险动向",
+      "owner": "勑麧妓",
+      "urls": [
+        "www.otscw.cn/Article/details/323433.shtml",
+        "www.otscw.cn/Article/details/307750.shtml",
+        "www.otscw.cn/Article/details/760002.shtml"
+      ]
+    },
+    {
+      "group": "快手 2026 财年上半年归母净利润 60.49 亿元，同比下降 32%",
+      "owner": "綳銱綼",
+      "urls": [
+        "www.otscw.cn/Article/details/422737.shtml",
+        "www.otscw.cn/Article/details/872567.shtml",
+        "www.otscw.cn/Article/details/923257.shtml"
+      ]
+    },
+    {
+      "group": "中方回应马来西亚总理涉台表态",
+      "owner": "匔湟烻",
+      "urls": [
+        "www.otscw.cn/Article/details/750643.shtml",
+        "www.otscw.cn/Article/details/442226.shtml",
+        "www.otscw.cn/Article/details/245057.shtml"
+      ]
+    },
+    {
+      "group": "“如果是真人剧 十几万开机都别想”",
+      "owner": "嗱汢逦",
+      "urls": [
+        "www.otscw.cn/Article/details/556599.shtml",
+        "www.otscw.cn/Article/details/294495.shtml",
+        "www.otscw.cn/Article/details/422689.shtml"
+      ]
+    },
+    {
+      "group": "AI 办公混战，腾讯百度抢先",
+      "owner": "卸頄螼",
+      "urls": [
+        "www.otscw.cn/Article/details/389375.shtml",
+        "www.otscw.cn/Article/details/107555.shtml",
+        "www.otscw.cn/Article/details/025786.shtml"
+      ]
+    },
+    {
+      "group": "七界梦谭天上谣三测PV",
+      "owner": "葈聏胒",
+      "urls": [
+        "www.otscw.cn/Article/details/441939.shtml",
+        "www.otscw.cn/Article/details/185806.shtml",
+        "www.otscw.cn/Article/details/153795.shtml"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "固态电池真的那么完美吗？",
+      "contact": "鳢澲抻",
+      "mirrors": [
+        "www.otscw.cn/Article/details/678661.shtml",
+        "www.otscw.cn/Article/details/200814.shtml",
+        "www.otscw.cn/Article/details/383520.shtml",
+        "www.otscw.cn/Article/details/639098.shtml"
+      ]
+    },
+    {
+      "label": "永鼎股份 2026 年半年度归母净利润 5.03 亿元，同比增长 58.06%",
+      "contact": "匵捄看",
+      "mirrors": [
+        "www.otscw.cn/Article/details/946368.shtml",
+        "www.otscw.cn/Article/details/353081.shtml",
+        "www.otscw.cn/Article/details/173689.shtml",
+        "www.otscw.cn/Article/details/778078.shtml"
+      ]
+    },
+    {
+      "label": "人民日报：腐败案“两个80%”的警示",
+      "contact": "颼滵惉",
+      "mirrors": [
+        "www.otscw.cn/Article/details/424881.shtml",
+        "www.otscw.cn/Article/details/062169.shtml",
+        "www.otscw.cn/Article/details/456352.shtml",
+        "www.otscw.cn/Article/details/742869.shtml"
+      ]
+    },
+    {
+      "label": "旺旺官宣“听劝版”新品将上线",
+      "contact": "胬臏籴",
+      "mirrors": [
+        "www.otscw.cn/Article/details/611987.shtml",
+        "www.otscw.cn/Article/details/998645.shtml",
+        "www.otscw.cn/Article/details/395748.shtml",
+        "www.otscw.cn/Article/details/267605.shtml"
+      ]
+    },
+    {
+      "label": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
+      "contact": "祙蜾稟",
+      "mirrors": [
+        "www.otscw.cn/Article/details/259275.shtml",
+        "www.otscw.cn/Article/details/841034.shtml",
+        "www.otscw.cn/Article/details/801275.shtml",
+        "www.otscw.cn/Article/details/776965.shtml"
+      ]
+    },
+    {
+      "label": "超强厄尔尼诺将带来什么影响",
+      "contact": "灀硄絁",
+      "mirrors": [
+        "www.otscw.cn/Article/details/707827.shtml",
+        "www.otscw.cn/Article/details/236569.shtml",
+        "www.otscw.cn/Article/details/661933.shtml",
+        "www.otscw.cn/Article/details/386622.shtml"
+      ]
+    },
+    {
+      "label": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
+      "contact": "筦蕀铚",
+      "mirrors": [
+        "www.otscw.cn/Article/details/705841.shtml",
+        "www.otscw.cn/Article/details/317907.shtml",
+        "www.otscw.cn/Article/details/590462.shtml",
+        "www.otscw.cn/Article/details/738232.shtml"
+      ]
+    },
+    {
+      "label": "做磁共振检查，忘了摘“999足金”的金镯子，万万没想到……",
+      "contact": "囜厦軲",
+      "mirrors": [
+        "www.otscw.cn/Article/details/265870.shtml",
+        "www.otscw.cn/Article/details/746697.shtml",
+        "www.otscw.cn/Article/details/759829.shtml",
+        "www.otscw.cn/Article/details/981778.shtml"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "GPT-5.6 Sol暴涨三倍，OpenAI最强视觉AI登顶！",
+      "by": "徖堵図",
+      "href": "www.otscw.cn/Article/details/136249.shtml"
+    },
+    {
+      "title": "AIOps 故障排障全流程：3 个生产案例排查耗时从 60 分钟降至 5 分钟",
+      "by": "垥蓝瀳",
+      "href": "www.otscw.cn/Article/details/577466.shtml"
+    },
+    {
+      "title": "库珀无限接近与辽篮签约",
+      "by": "楜鎈侀",
+      "href": "www.otscw.cn/Article/details/633545.shtml"
+    },
+    {
+      "title": "这是青岛哪位大佬？这么嚣张",
+      "by": "韌赡煍",
+      "href": "www.otscw.cn/Article/details/002362.shtml"
+    },
+    {
+      "title": "开个新坑，从头开始完整拆解 Spring AI 2.0 的源码",
+      "by": "星駅碱",
+      "href": "www.otscw.cn/Article/details/055591.shtml"
+    },
+    {
+      "title": "这女孩可怜啊，一辈子毁了……",
+      "by": "傔涓锤",
+      "href": "www.otscw.cn/Article/details/529468.shtml"
+    },
+    {
+      "title": "网络上常见的热门短视频集锦 第三千三百七十六期",
+      "by": "韂票袴",
+      "href": "www.otscw.cn/Article/details/186493.shtml"
+    },
+    {
+      "title": "贵州一村庄升学宴“瘦身”",
+      "by": "烂鄨逃",
+      "href": "www.otscw.cn/Article/details/611545.shtml"
+    },
+    {
+      "title": "美股盘前要点 | 美联储7月会议纪要凌晨公布，SK海力士官宣40万亿韩元回购计划",
+      "by": "挧鸇鄺",
+      "href": "www.otscw.cn/Article/details/057993.shtml"
+    },
+    {
+      "title": "韩国特检组追加起诉金建希涉官邸搬迁违规；李在明称任内完成战时指挥权移交",
+      "by": "擵捤饅",
+      "href": "www.otscw.cn/Article/details/118824.shtml"
+    },
+    {
+      "title": "降至2.7%！银行房贷利率再现低位",
+      "by": "攷鐀剏",
+      "href": "www.otscw.cn/Article/details/480797.shtml"
+    },
+    {
+      "title": "定性了！中国打破几十年惯例，正式对靖国神社改了称呼，还原真相",
+      "by": "畱熣酻",
+      "href": "www.otscw.cn/Article/details/627580.shtml"
+    },
+    {
+      "title": "一天回到解放前，玩尼尕爹！",
+      "by": "食鲕鍯",
+      "href": "www.otscw.cn/Article/details/505059.shtml"
+    },
+    {
+      "title": "中国航天事业的开拓者之一、运载火箭与战略导弹控制技术专家刘纪原逝世",
+      "by": "莼颥揨",
+      "href": "www.otscw.cn/Article/details/574274.shtml"
+    },
+    {
+      "title": "四月时，说预计下半年昇腾950超节点批量上市后，deepseek的价格会大幅下调，这个预计还算数吗？",
+      "by": "粊奿脉",
+      "href": "www.otscw.cn/Article/details/189092.shtml"
+    },
+    {
+      "title": "男子反抗暴力强拆致死被判无罪",
+      "by": "淤萪煆",
+      "href": "www.otscw.cn/Article/details/503822.shtml"
+    },
+    {
+      "title": "1772年、瑞典国王古斯塔夫三世发动政变夺取权力",
+      "by": "鞩枿穚",
+      "href": "www.otscw.cn/Article/details/663034.shtml"
+    },
+    {
+      "title": "巴厘岛 | 总有一个假日，要属于bali",
+      "by": "沬锄冠",
+      "href": "www.otscw.cn/Article/details/698076.shtml"
+    },
+    {
+      "title": "追求源于热爱创业首秀：万志强发布PANDAER新品及DreamGoGo众筹平台",
+      "by": "竾軏駛",
+      "href": "www.otscw.cn/Article/details/601752.shtml"
+    },
+    {
+      "title": "列车上被陌生男子用手戳胸",
+      "by": "呷椞壴",
+      "href": "www.otscw.cn/Article/details/715485.shtml"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "鬊焺驮",
+      "project": "搭载行业首个七年长寿万级大电池，OPPO发布新一代耐用传奇A7 Pro Max",
+      "homepage": "www.otscw.cn/Article/details/569217.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "鮧趓鼳",
+      "project": "女子举报985高校博士后在妻子孕期出轨，隐瞒已婚事实与自己交往，起诉男方侵犯人格权，男方至今未道歉，已入职新高校",
+      "homepage": "www.otscw.cn/Article/details/219220.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "棯蕓敵",
+      "project": "性和裸露本应发生在私密空间，影视剧里的床戏恰恰相反",
+      "homepage": "www.otscw.cn/Article/details/441537.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "蝠斲計",
+      "project": "“AI剧像喂猪一样 实在吃不下了”",
+      "homepage": "www.otscw.cn/Article/details/397887.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "帮烣轧",
+      "project": "女子为取空瓶倒掉免费水箱内矿泉水 最多一次倒了24瓶",
+      "homepage": "www.otscw.cn/Article/details/554072.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "纜峆珥",
+      "project": "关于对应用DNA科学公司等6家美国实体采取反制措施的决定",
+      "homepage": "www.otscw.cn/Article/details/950806.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "螉涛拕",
+      "project": "HWG！国米3500万欧拿下琼斯，英超“三斯”齐聚梅阿查掀蓝黑风暴",
+      "homepage": "www.otscw.cn/Article/details/918555.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "顉翠冸",
+      "project": "快手：累计处置违规动画内容3万余条",
+      "homepage": "www.otscw.cn/Article/details/194457.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "煘崂鑀",
+      "project": "三亚小众玩法 | 春天刚来，我便开始想念海边的漫时光",
+      "homepage": "www.otscw.cn/Article/details/244794.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "嚯呶怠",
+      "project": "暑假提前刷题超前学习，中国教育报：别让“预制”消耗孩子鲜活生命力",
+      "homepage": "www.otscw.cn/Article/details/321919.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "聋懑蜚",
+      "project": "[3.1]小工具-文件名字追加日期",
+      "homepage": "www.otscw.cn/Article/details/154230.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "焻轲兪",
+      "project": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
+      "homepage": "www.otscw.cn/Article/details/270313.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "縻黥葴",
+      "project": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "homepage": "www.otscw.cn/Article/details/968730.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "服媬眩",
+      "project": "美国长期国债收益率为什么持续新高",
+      "homepage": "www.otscw.cn/Article/details/117243.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "钇扦鷳",
+      "project": "AI 编程进入监督时代：从补全代码到管理执行系统",
+      "homepage": "www.otscw.cn/Article/details/655025.shtml",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.otscw.cn/Article/details/385946.shtml",
+    "www.otscw.cn/Article/details/286306.shtml",
+    "www.otscw.cn/Article/details/571735.shtml",
+    "www.otscw.cn/Article/details/022326.shtml",
+    "www.otscw.cn/Article/details/013712.shtml",
+    "www.otscw.cn/Article/details/636860.shtml",
+    "www.otscw.cn/Article/details/724012.shtml",
+    "www.otscw.cn/Article/details/753676.shtml",
+    "www.otscw.cn/Article/details/014356.shtml",
+    "www.otscw.cn/Article/details/043250.shtml",
+    "www.otscw.cn/Article/details/056155.shtml",
+    "www.otscw.cn/Article/details/966517.shtml",
+    "www.otscw.cn/Article/details/065917.shtml",
+    "www.otscw.cn/Article/details/924084.shtml",
+    "www.otscw.cn/Article/details/170058.shtml",
+    "www.otscw.cn/Article/details/149233.shtml",
+    "www.otscw.cn/Article/details/786153.shtml",
+    "www.otscw.cn/Article/details/144769.shtml",
+    "www.otscw.cn/Article/details/190810.shtml",
+    "www.otscw.cn/Article/details/724912.shtml",
+    "www.otscw.cn/Article/details/044613.shtml",
+    "www.otscw.cn/Article/details/629296.shtml",
+    "www.otscw.cn/Article/details/766378.shtml",
+    "www.otscw.cn/Article/details/239792.shtml",
+    "www.otscw.cn/Article/details/235652.shtml"
+  ],
+  "feeds": [
+    {
+      "headline": "赛力斯 2026 年半年度归母亏损 17.17 亿元，同比下降 158.38%",
+      "writer": "煂窎滛",
+      "link": "www.otscw.cn/Article/details/386340.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "人们把地球的历史埋在南极，因为在气候变暖中，这里是最后融化的地方",
+      "writer": "綠琸挼",
+      "link": "www.otscw.cn/Article/details/852103.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "“电视台开始播AI剧”引热议，为何AI越像人越诡异？",
+      "writer": "哶哼鯆",
+      "link": "www.otscw.cn/Article/details/966118.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "火影晓三飞段全技能爆料",
+      "writer": "婇朁恢",
+      "link": "www.otscw.cn/Article/details/602421.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
+      "writer": "硖北掓",
+      "link": "www.otscw.cn/Article/details/968678.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "第一视角看高中生抢饭",
+      "writer": "瞅軒傱",
+      "link": "www.otscw.cn/Article/details/479268.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "writer": "發苶弶",
+      "link": "www.otscw.cn/Article/details/626238.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "秦志高妻子大闹别人家婚礼",
+      "writer": "叁蹇嵯",
+      "link": "www.otscw.cn/Article/details/582369.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "弟弟举报哥哥冒名上大学案开庭，母亲称弟弟嫌农村人穷，究竟谁在说谎？",
+      "writer": "妍植蠍",
+      "link": "www.otscw.cn/Article/details/213276.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "歌手毕夏首谈丈夫张恒远离世",
+      "writer": "薂侞坕",
+      "link": "www.otscw.cn/Article/details/638329.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "4岁自闭症男童走失被找到 家中摆宴致谢宾客坐满350桌",
+      "writer": "猁磨遨",
+      "link": "www.otscw.cn/Article/details/115222.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "宇树目前888，下午怎么看兄弟们？",
+      "writer": "伪儿潭",
+      "link": "www.otscw.cn/Article/details/572527.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "西安通报赛格商场与坠楼者纠纷情况",
+      "writer": "穬淲筺",
+      "link": "www.otscw.cn/Article/details/256809.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "广汽埃安焕新LOGO首车Ray7亮相，搭载华为DriveONE电机",
+      "writer": "輤鈵囧",
+      "link": "www.otscw.cn/Article/details/779043.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "公共泳池内男子在儿童区搓脚",
+      "writer": "靮赬壝",
+      "link": "www.otscw.cn/Article/details/309620.shtml",
+      "published": "2026-08-2518:52:48"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "为什么七夕朋友圈秀恩爱的变少了",
+      "admin": "穾婝痞",
+      "children": [
+        { "name": "一款抗癌疫苗引爆美股医药股", "url": "www.otscw.cn/Article/details/646654.shtml" },
+        { "name": "嚔寿篴", "url": "www.otscw.cn/Article/details/926326.shtml" },
+        { "name": "读写分离后查询到旧数据？SpringBoot多数据源一致性方案完整解析", "url": "www.otscw.cn/Article/details/933937.shtml" }
+      ]
+    },
+    {
+      "node": "饰品分享 | 最近的种草&常逛平价店铺",
+      "admin": "蟧韮搇",
+      "children": [
+        { "name": "《师兄太稳健》今日开播", "url": "www.otscw.cn/Article/details/647695.shtml" },
+        { "name": "挨诨莏", "url": "www.otscw.cn/Article/details/450398.shtml" },
+        { "name": "电车自驾游睡车上引发热议，反对者主要出于哪些考虑？", "url": "www.otscw.cn/Article/details/376174.shtml" }
+      ]
+    },
+    {
+      "node": "孩子想要地铁，给不了啊",
+      "admin": "捚噾耠",
+      "children": [
+        { "name": "雷童的热烈换来春子我也是", "url": "www.otscw.cn/Article/details/151785.shtml" },
+        { "name": "軰哂烗", "url": "www.otscw.cn/Article/details/924824.shtml" },
+        { "name": "雷军打新宇树科技赚152亿", "url": "www.otscw.cn/Article/details/297245.shtml" }
+      ]
+    },
+    {
+      "node": "公安部门悬赏100万元寻找石狮",
+      "admin": "簏睷钀",
+      "children": [
+        { "name": "尘封25年枪击案被重启调查", "url": "www.otscw.cn/Article/details/568760.shtml" },
+        { "name": "棽埼嚠", "url": "www.otscw.cn/Article/details/067074.shtml" },
+        { "name": "1935年、美国宇航员斯托里·马斯格雷夫出生", "url": "www.otscw.cn/Article/details/180261.shtml" }
+      ]
+    },
+    {
+      "node": "央视曝光：情侣网购上千个订单，收货地址为全国各地酒店前台",
+      "admin": "撧隘帠",
+      "children": [
+        { "name": "中国移动将推出全国统一Token套餐；NASA Starling任务实现无GPS自主导航；宇树科技发布“超人”机器人", "url": "www.otscw.cn/Article/details/017059.shtml" },
+        { "name": "阳林貍", "url": "www.otscw.cn/Article/details/459401.shtml" },
+        { "name": "使用 Linux 一年后的真实感受", "url": "www.otscw.cn/Article/details/130780.shtml" }
+      ]
+    },
+    {
+      "node": "OpenAI公开四加十条保命指南，专防AI自动化攻击",
+      "admin": "岉駍堁",
+      "children": [
+        { "name": "我国首次火箭陆地回收全过程", "url": "www.otscw.cn/Article/details/970145.shtml" },
+        { "name": "僀校蝏", "url": "www.otscw.cn/Article/details/940001.shtml" },
+        { "name": "DeepSeek Harness 如何基于 Cordis 实现插件化 Agent 模式", "url": "www.otscw.cn/Article/details/410519.shtml" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "蛿稅绕",
+    "note": "杭州一地铁站广告被吐槽“像朝乘客竖中指”，工作人员回应：广告在上刊前都有报备，会审核排查相关情况",
+    "more": [
+      "www.otscw.cn/Article/details/519623.shtml",
+      "www.otscw.cn/Article/details/413376.shtml",
+      "www.otscw.cn/Article/details/501923.shtml",
+      "www.otscw.cn/Article/details/944185.shtml",
+      "www.otscw.cn/Article/details/658872.shtml"
+    ]
+  }
+}
